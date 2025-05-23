@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Puli-Shanmukhi
 - 👀 I’m interested in C language.
 - 🌱 I’m currently learning B-Tech 4th yr
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+-  I’m looking to collaborate on 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
